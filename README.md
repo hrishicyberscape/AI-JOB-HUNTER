@@ -63,8 +63,8 @@ The same skill file (`skills/job-hunter/SKILL.md`) drives all three.
 and one of the three assistants above.
 
 ```bash
-git clone https://github.com/<you>/ai-job-hunter.git
-cd ai-job-hunter
+git clone https://github.com/hrishicyberscape/AI-JOB-HUNTER.git
+cd AI-JOB-HUNTER
 npm run check        # shows what still needs setting up
 ```
 
