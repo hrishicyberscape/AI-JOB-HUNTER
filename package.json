@@ -1,0 +1,15 @@
+{
+  "name": "ai-job-hunter",
+  "version": "1.0.0",
+  "description": "A job-search agent skill for Claude Code, Gemini CLI and OpenAI Codex: search, tailor ATS-friendly resumes, apply with your approval.",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "check": "node skills/job-hunter/scripts/check_setup.mjs",
+    "status": "node skills/job-hunter/scripts/tracker.mjs list",
+    "score": "node skills/job-hunter/scripts/ats_score.mjs",
+    "build-resume": "node skills/job-hunter/scripts/build_resume.mjs",
+    "test": "node tests/run.mjs"
+  }
+}

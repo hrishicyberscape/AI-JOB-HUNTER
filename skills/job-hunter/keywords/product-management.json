@@ -1,0 +1,18 @@
+[
+  ["product management",3,"product management","product manager","product owner"],
+  ["product strategy",2,"product strategy","product vision"],
+  ["roadmap",2,"roadmap","roadmaps","roadmapping"],
+  ["user research",2,"user research","customer research","customer interviews","discovery"],
+  ["prioritization",2,"prioritization","prioritisation","rice","moscow"],
+  ["user stories",2,"user stories","user story","acceptance criteria"],
+  ["backlog",2,"backlog","product backlog"],
+  ["agile",2,"agile","scrum"],
+  ["go-to-market",1,"go-to-market","gtm","product launch","launches"],
+  ["analytics",2,"analytics","mixpanel","amplitude","google analytics"],
+  ["a/b testing",1,"a/b testing","experimentation","experiments"],
+  ["kpis & okrs",1,"okrs","okr","kpis","north star"],
+  ["ux collaboration",1,"ux","ui/ux","figma","wireframes"],
+  ["requirements",2,"requirements","prd","product requirements"],
+  ["jira",1,"jira"],
+  ["!cspo",1,"cspo","certified scrum product owner"]
+]

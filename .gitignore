@@ -1,0 +1,11 @@
+# Personal data: never commit
+profile/*
+!profile/*.example.*
+job-search/
+.browser-profile/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+node_modules/

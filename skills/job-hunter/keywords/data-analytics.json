@@ -1,0 +1,19 @@
+[
+  ["data analysis",3,"data analysis","data analytics","analytics","analyst"],
+  ["sql",3,"sql","postgresql","mysql","bigquery","snowflake"],
+  ["python",2,"python","pandas","numpy"],
+  ["r",1,"r programming"],
+  ["excel",2,"excel","advanced excel","vlookup","pivot tables"],
+  ["power bi",2,"power bi","powerbi"],
+  ["tableau",2,"tableau"],
+  ["looker",1,"looker","looker studio"],
+  ["dashboards & reporting",2,"dashboards","dashboard","reporting","reports"],
+  ["statistics",2,"statistics","statistical","a/b testing","hypothesis testing"],
+  ["etl / data pipelines",2,"etl","elt","data pipelines","data pipeline","airflow","dbt"],
+  ["data modeling",1,"data modeling","data modelling","data warehouse","data warehousing"],
+  ["machine learning",1,"machine learning","predictive modeling"],
+  ["data visualization",2,"data visualization","data visualisation","visualization"],
+  ["kpis",1,"kpis","kpi","metrics"],
+  ["!google data analytics",1,"google data analytics certificate"],
+  ["!pl-300",1,"pl-300","power bi data analyst"]
+]

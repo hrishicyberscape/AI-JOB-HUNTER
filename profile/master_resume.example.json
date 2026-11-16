@@ -1,0 +1,62 @@
+{
+  "_note": "Master resume: every fact here must be true. Tailored resumes are built only from this content (reordered, reworded, trimmed). 'bullet_bank' holds extra true bullets that may be swapped in for a particular job. Copy to profile/master_resume.json (git-ignored).",
+  "name": "Alex Example",
+  "headline": "Software Project Manager",
+  "contact": {
+    "phone": "+00 0000000000",
+    "email": "alex@example.com",
+    "location": "City, Country",
+    "linkedin": "",
+    "portfolio": ""
+  },
+  "summary": "Software Project Manager with 6+ years of experience delivering web and mobile projects across the SDLC, from requirements and planning through QA, release and support. Coordinates cross-functional teams of developers and testers, manages client stakeholders, and tracks risks, scope and schedules to keep delivery predictable.",
+  "competencies": [
+    "Software Project Management",
+    "Agile & Waterfall Delivery",
+    "Project Planning & Scheduling",
+    "Requirements Gathering",
+    "Client & Stakeholder Management",
+    "Risk & Issue Management",
+    "Release Management",
+    "QA & UAT Coordination",
+    "Jira"
+  ],
+  "experience": [
+    {
+      "company": "Example Software Ltd",
+      "location": "City, Country",
+      "title": "Project Manager",
+      "dates": "Jan 2022 - Present",
+      "bullets": [
+        "Manage 3 concurrent client projects with teams of 5-8 developers and 2 QA engineers.",
+        "Coordinate 2-3 production releases per month, managing QA readiness and stakeholder communication.",
+        "Cut average defect turnaround from 5 days to 2 by introducing a daily triage routine."
+      ],
+      "bullet_bank": [
+        "Run sprint planning and backlog refinement with product owners and developers.",
+        "Track project risks, issues and change requests and report status to clients weekly."
+      ]
+    },
+    {
+      "company": "Previous Company Pvt Ltd",
+      "location": "City, Country",
+      "title": "Associate Project Manager",
+      "dates": "2019 - 2021",
+      "bullets": [
+        "Supported delivery of 6 web projects from kickoff to launch.",
+        "Maintained project plans, meeting notes and release documentation."
+      ],
+      "bullet_bank": []
+    }
+  ],
+  "projects": [],
+  "tools": [
+    { "label": "Project Delivery", "items": "Jira, Confluence, Agile, Scrum, Waterfall" },
+    { "label": "QA", "items": "Manual testing, UAT coordination, defect tracking" }
+  ],
+  "education": [
+    { "degree": "B.Tech, Computer Science", "school": "Example University", "dates": "2018" }
+  ],
+  "certifications": [],
+  "languages": "English (Fluent)"
+}
